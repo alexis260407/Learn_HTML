@@ -1,0 +1,11 @@
+Le site internet, est inspiré de deltarune.
+Vu que le créateur et le jeu en lui même sont beaucoup moqueurs, j'ai decidé de mettre de mettre un anciens gif et un lien troll. (lien original du troll
+deltarune.com/lancer)
+
+(Pour le programme de texte marche, il faut télécharger 8bitoperator.ttf)
+
+Index: Page principal avec style.css
+Lancered: Page troll avec style2.css et script.js
+Video: Deuxième page avec une vidéo avec video.css et video.js
+Texte: Troisème page avec une vidéo avec video.css et video.js
+De base avec le "Texte" je voulais mettre du Windings Gaster à la version du jeu mais impossible de le mettre.
